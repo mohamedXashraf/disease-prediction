@@ -6,7 +6,6 @@ Kaggle: https://www.kaggle.com/datasets/itachi9604/disease-symptom-description-d
 
 Model:
 - Decision Tree --> SciKit Learn.
-- Neural Network --> TensorFlow.
 
 
 Classification Report:
